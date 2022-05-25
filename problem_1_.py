@@ -1,3 +1,5 @@
+# Write a function that given a Polygon's path of points returns a reduced list that defines the same Polygon.
+
 # Creating the necessary function to reduce the list
 def reduce_polygon(polygon_list):
     """Reduces the ammount of points to draw a polygon to only the points needed.
