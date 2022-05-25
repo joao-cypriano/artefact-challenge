@@ -1,3 +1,5 @@
+# Given a string made of opening and closing brackets, how to check if its syntax is OK?
+
 def syntax_check(expression):
     """Checks wheter the expression using brackets is balanced or not.
     
